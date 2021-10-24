@@ -3,3 +3,4 @@ resource "aws_key_pair" "ssh_key_281" {
   public_key = "${var.public_key}"
 }
 
+ 
